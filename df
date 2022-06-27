@@ -1,0 +1,1001 @@
+,sexe,race/ethnie,niveau d'éducation des parents,déjeuner,cours de préparation aux examens,note de maths,note de lecture,note d'écriture
+0,feminin,groupe B,bachelier,standard,aucun,72,72,74
+1,feminin,groupe C,collège,standard,terminé,69,90,88
+2,feminin,groupe B,maîtrise,standard,aucun,90,95,93
+3,masculin,groupe A,deug,gratuit/réduit,aucun,47,57,44
+4,masculin,groupe C,collège,standard,aucun,76,78,75
+5,feminin,groupe B,deug,standard,aucun,71,83,78
+6,feminin,groupe B,collège,standard,terminé,88,95,92
+7,masculin,groupe B,collège,gratuit/réduit,aucun,40,43,39
+8,masculin,groupe D,école supérieure,gratuit/réduit,terminé,64,64,67
+9,feminin,groupe B,école supérieure,gratuit/réduit,aucun,38,60,50
+10,masculin,groupe C,deug,standard,aucun,58,54,52
+11,masculin,groupe D,deug,standard,aucun,40,52,43
+12,feminin,groupe B,école supérieure,standard,aucun,65,81,73
+13,masculin,groupe A,collège,standard,terminé,78,72,70
+14,feminin,groupe A,maîtrise,standard,aucun,50,53,58
+15,feminin,groupe C,lycée,standard,aucun,69,75,78
+16,masculin,groupe C,école supérieure,standard,aucun,88,89,86
+17,feminin,groupe B,lycée,gratuit/réduit,aucun,18,32,28
+18,masculin,groupe C,maîtrise,gratuit/réduit,terminé,46,42,46
+19,feminin,groupe C,deug,gratuit/réduit,aucun,54,58,61
+20,masculin,groupe D,école supérieure,standard,aucun,66,69,63
+21,feminin,groupe B,collège,gratuit/réduit,terminé,65,75,70
+22,masculin,groupe D,collège,standard,aucun,44,54,53
+23,feminin,groupe C,lycée,standard,aucun,69,73,73
+24,masculin,groupe D,bachelier,gratuit/réduit,terminé,74,71,80
+25,masculin,groupe A,maîtrise,gratuit/réduit,aucun,73,74,72
+26,masculin,groupe B,collège,standard,aucun,69,54,55
+27,feminin,groupe C,bachelier,standard,aucun,67,69,75
+28,masculin,groupe C,école supérieure,standard,aucun,70,70,65
+29,feminin,groupe D,maîtrise,standard,aucun,62,70,75
+30,feminin,groupe D,collège,standard,aucun,69,74,74
+31,feminin,groupe B,collège,standard,aucun,63,65,61
+32,feminin,groupe E,maîtrise,gratuit/réduit,aucun,56,72,65
+33,masculin,groupe D,collège,standard,aucun,40,42,38
+34,masculin,groupe E,collège,standard,aucun,97,87,82
+35,masculin,groupe E,deug,standard,terminé,81,81,79
+36,feminin,groupe D,deug,standard,aucun,74,81,83
+37,feminin,groupe D,lycée,gratuit/réduit,aucun,50,64,59
+38,feminin,groupe D,deug,gratuit/réduit,terminé,75,90,88
+39,masculin,groupe B,deug,gratuit/réduit,aucun,57,56,57
+40,masculin,groupe C,deug,gratuit/réduit,aucun,55,61,54
+41,feminin,groupe C,deug,standard,aucun,58,73,68
+42,feminin,groupe B,deug,standard,aucun,53,58,65
+43,masculin,groupe B,collège,gratuit/réduit,terminé,59,65,66
+44,feminin,groupe E,deug,gratuit/réduit,aucun,50,56,54
+45,masculin,groupe B,deug,standard,aucun,65,54,57
+46,feminin,groupe A,deug,standard,terminé,55,65,62
+47,feminin,groupe C,école supérieure,standard,aucun,66,71,76
+48,feminin,groupe D,deug,gratuit/réduit,terminé,57,74,76
+49,masculin,groupe C,école supérieure,standard,terminé,82,84,82
+50,masculin,groupe E,collège,standard,aucun,53,55,48
+51,masculin,groupe E,deug,gratuit/réduit,terminé,77,69,68
+52,masculin,groupe C,collège,standard,aucun,53,44,42
+53,masculin,groupe D,école supérieure,standard,aucun,88,78,75
+54,feminin,groupe C,lycée,gratuit/réduit,terminé,71,84,87
+55,feminin,groupe C,école supérieure,gratuit/réduit,aucun,33,41,43
+56,feminin,groupe E,deug,standard,terminé,82,85,86
+57,masculin,groupe D,deug,standard,aucun,52,55,49
+58,masculin,groupe D,collège,standard,terminé,58,59,58
+59,feminin,groupe C,lycée,gratuit/réduit,aucun,0,17,10
+60,masculin,groupe E,bachelier,gratuit/réduit,terminé,79,74,72
+61,masculin,groupe A,lycée,gratuit/réduit,aucun,39,39,34
+62,masculin,groupe A,deug,gratuit/réduit,aucun,62,61,55
+63,feminin,groupe C,deug,standard,aucun,69,80,71
+64,feminin,groupe D,lycée,standard,aucun,59,58,59
+65,masculin,groupe B,lycée,standard,aucun,67,64,61
+66,masculin,groupe D,lycée,gratuit/réduit,aucun,45,37,37
+67,feminin,groupe C,collège,standard,aucun,60,72,74
+68,masculin,groupe B,deug,gratuit/réduit,aucun,61,58,56
+69,feminin,groupe C,deug,standard,aucun,39,64,57
+70,feminin,groupe D,collège,gratuit/réduit,terminé,58,63,73
+71,masculin,groupe D,collège,standard,terminé,63,55,63
+72,feminin,groupe A,deug,gratuit/réduit,aucun,41,51,48
+73,masculin,groupe C,lycée,gratuit/réduit,aucun,61,57,56
+74,masculin,groupe C,lycée,standard,aucun,49,49,41
+75,masculin,groupe B,deug,gratuit/réduit,aucun,44,41,38
+76,masculin,groupe E,lycée,standard,aucun,30,26,22
+77,masculin,groupe A,bachelier,standard,terminé,80,78,81
+78,feminin,groupe D,lycée,standard,terminé,61,74,72
+79,feminin,groupe E,maîtrise,standard,aucun,62,68,68
+80,feminin,groupe B,deug,standard,aucun,47,49,50
+81,masculin,groupe B,école supérieure,gratuit/réduit,aucun,49,45,45
+82,masculin,groupe A,collège,gratuit/réduit,terminé,50,47,54
+83,masculin,groupe E,deug,standard,aucun,72,64,63
+84,masculin,groupe D,école supérieure,gratuit/réduit,aucun,42,39,34
+85,feminin,groupe C,collège,standard,aucun,73,80,82
+86,feminin,groupe C,collège,gratuit/réduit,aucun,76,83,88
+87,feminin,groupe D,deug,standard,aucun,71,71,74
+88,feminin,groupe A,collège,standard,aucun,58,70,67
+89,feminin,groupe D,lycée,standard,aucun,73,86,82
+90,feminin,groupe C,bachelier,standard,aucun,65,72,74
+91,masculin,groupe C,école supérieure,gratuit/réduit,aucun,27,34,36
+92,masculin,groupe C,école supérieure,standard,aucun,71,79,71
+93,masculin,groupe C,deug,gratuit/réduit,terminé,43,45,50
+94,feminin,groupe B,collège,standard,aucun,79,86,92
+95,masculin,groupe C,deug,gratuit/réduit,terminé,78,81,82
+96,masculin,groupe B,lycée,standard,terminé,65,66,62
+97,feminin,groupe E,collège,standard,terminé,63,72,70
+98,feminin,groupe D,collège,gratuit/réduit,aucun,58,67,62
+99,feminin,groupe D,bachelier,standard,aucun,65,67,62
+100,masculin,groupe B,collège,standard,aucun,79,67,67
+101,masculin,groupe D,bachelier,standard,terminé,68,74,74
+102,feminin,groupe D,deug,standard,aucun,85,91,89
+103,masculin,groupe B,école supérieure,standard,terminé,60,44,47
+104,masculin,groupe C,collège,standard,terminé,98,86,90
+105,feminin,groupe C,collège,standard,aucun,58,67,72
+106,feminin,groupe D,maîtrise,standard,aucun,87,100,100
+107,masculin,groupe E,deug,standard,terminé,66,63,64
+108,feminin,groupe B,deug,gratuit/réduit,aucun,52,76,70
+109,feminin,groupe B,lycée,standard,aucun,70,64,72
+110,feminin,groupe D,deug,gratuit/réduit,terminé,77,89,98
+111,masculin,groupe C,école supérieure,standard,aucun,62,55,49
+112,masculin,groupe A,deug,standard,aucun,54,53,47
+113,feminin,groupe D,collège,standard,aucun,51,58,54
+114,feminin,groupe E,bachelier,standard,terminé,99,100,100
+115,masculin,groupe C,école supérieure,standard,aucun,84,77,74
+116,feminin,groupe B,bachelier,gratuit/réduit,aucun,75,85,82
+117,feminin,groupe D,bachelier,standard,aucun,78,82,79
+118,feminin,groupe D,lycée,standard,aucun,51,63,61
+119,feminin,groupe C,collège,standard,aucun,55,69,65
+120,feminin,groupe C,bachelier,standard,terminé,79,92,89
+121,masculin,groupe B,deug,standard,terminé,91,89,92
+122,feminin,groupe C,collège,standard,terminé,88,93,93
+123,masculin,groupe D,école supérieure,gratuit/réduit,aucun,63,57,56
+124,masculin,groupe E,collège,standard,aucun,83,80,73
+125,feminin,groupe B,école supérieure,standard,aucun,87,95,86
+126,masculin,groupe B,lycée,standard,aucun,72,68,67
+127,masculin,groupe D,collège,standard,terminé,65,77,74
+128,masculin,groupe D,maîtrise,standard,aucun,82,82,74
+129,feminin,groupe A,bachelier,standard,aucun,51,49,51
+130,masculin,groupe D,maîtrise,standard,aucun,89,84,82
+131,masculin,groupe C,lycée,gratuit/réduit,terminé,53,37,40
+132,masculin,groupe E,collège,gratuit/réduit,terminé,87,74,70
+133,feminin,groupe C,collège,standard,terminé,75,81,84
+134,masculin,groupe D,bachelier,gratuit/réduit,terminé,74,79,75
+135,masculin,groupe C,bachelier,standard,aucun,58,55,48
+136,masculin,groupe B,lycée,standard,terminé,51,54,41
+137,masculin,groupe E,école supérieure,standard,aucun,70,55,56
+138,feminin,groupe C,deug,standard,aucun,59,66,67
+139,masculin,groupe D,collège,standard,terminé,71,61,69
+140,feminin,groupe D,lycée,standard,aucun,76,72,71
+141,feminin,groupe C,collège,gratuit/réduit,aucun,59,62,64
+142,feminin,groupe E,collège,gratuit/réduit,terminé,42,55,54
+143,masculin,groupe A,école supérieure,standard,aucun,57,43,47
+144,masculin,groupe D,collège,standard,aucun,88,73,78
+145,feminin,groupe C,collège,gratuit/réduit,aucun,22,39,33
+146,masculin,groupe B,lycée,standard,aucun,88,84,75
+147,masculin,groupe C,deug,gratuit/réduit,aucun,73,68,66
+148,feminin,groupe D,bachelier,standard,terminé,68,75,81
+149,masculin,groupe E,deug,gratuit/réduit,terminé,100,100,93
+150,masculin,groupe A,lycée,standard,terminé,62,67,69
+151,masculin,groupe A,bachelier,standard,aucun,77,67,68
+152,feminin,groupe B,deug,standard,terminé,59,70,66
+153,masculin,groupe D,bachelier,standard,aucun,54,49,47
+154,masculin,groupe D,lycée,standard,aucun,62,67,61
+155,feminin,groupe C,collège,standard,terminé,70,89,88
+156,feminin,groupe E,école supérieure,gratuit/réduit,terminé,66,74,78
+157,masculin,groupe B,collège,gratuit/réduit,aucun,60,60,60
+158,feminin,groupe B,deug,standard,terminé,61,86,87
+159,masculin,groupe D,deug,gratuit/réduit,aucun,66,62,64
+160,masculin,groupe B,deug,gratuit/réduit,terminé,82,78,74
+161,feminin,groupe E,collège,gratuit/réduit,terminé,75,88,85
+162,masculin,groupe B,maîtrise,gratuit/réduit,aucun,49,53,52
+163,masculin,groupe C,école supérieure,standard,aucun,52,53,49
+164,feminin,groupe E,maîtrise,standard,aucun,81,92,91
+165,feminin,groupe C,bachelier,standard,terminé,96,100,100
+166,masculin,groupe C,école supérieure,gratuit/réduit,terminé,53,51,51
+167,feminin,groupe B,maîtrise,gratuit/réduit,terminé,58,76,78
+168,feminin,groupe B,école supérieure,standard,terminé,68,83,78
+169,feminin,groupe C,collège,gratuit/réduit,terminé,67,75,70
+170,masculin,groupe A,école supérieure,standard,terminé,72,73,74
+171,masculin,groupe E,lycée,standard,aucun,94,88,78
+172,feminin,groupe D,collège,standard,aucun,79,86,81
+173,feminin,groupe C,deug,standard,aucun,63,67,70
+174,feminin,groupe C,bachelier,gratuit/réduit,terminé,43,51,54
+175,feminin,groupe C,maîtrise,standard,terminé,81,91,87
+176,feminin,groupe B,école supérieure,gratuit/réduit,terminé,46,54,58
+177,feminin,groupe C,deug,standard,terminé,71,77,77
+178,feminin,groupe B,maîtrise,gratuit/réduit,terminé,52,70,62
+179,feminin,groupe D,lycée,standard,terminé,97,100,100
+180,masculin,groupe C,maîtrise,gratuit/réduit,terminé,62,68,75
+181,feminin,groupe C,collège,gratuit/réduit,aucun,46,64,66
+182,feminin,groupe E,école supérieure,standard,aucun,50,50,47
+183,feminin,groupe D,deug,standard,aucun,65,69,70
+184,masculin,groupe C,lycée,gratuit/réduit,terminé,45,52,49
+185,masculin,groupe C,deug,gratuit/réduit,terminé,65,67,65
+186,masculin,groupe E,école supérieure,standard,aucun,80,76,65
+187,masculin,groupe D,lycée,standard,terminé,62,66,68
+188,masculin,groupe B,lycée,gratuit/réduit,aucun,48,52,45
+189,feminin,groupe C,bachelier,standard,aucun,77,88,87
+190,feminin,groupe E,deug,standard,aucun,66,65,69
+191,masculin,groupe D,collège,standard,terminé,76,83,79
+192,feminin,groupe B,lycée,standard,aucun,62,64,66
+193,masculin,groupe D,collège,standard,terminé,77,62,62
+194,feminin,groupe C,maîtrise,standard,terminé,69,84,85
+195,masculin,groupe D,deug,standard,aucun,61,55,52
+196,masculin,groupe C,lycée,gratuit/réduit,terminé,59,69,65
+197,masculin,groupe E,école supérieure,gratuit/réduit,aucun,55,56,51
+198,feminin,groupe B,collège,gratuit/réduit,aucun,45,53,55
+199,feminin,groupe B,bachelier,gratuit/réduit,aucun,78,79,76
+200,feminin,groupe C,deug,standard,terminé,67,84,86
+201,feminin,groupe D,collège,gratuit/réduit,aucun,65,81,77
+202,masculin,groupe C,deug,standard,aucun,69,77,69
+203,feminin,groupe B,deug,standard,aucun,57,69,68
+204,masculin,groupe C,collège,standard,aucun,59,41,42
+205,masculin,groupe D,lycée,standard,terminé,74,71,78
+206,masculin,groupe E,bachelier,standard,aucun,82,62,62
+207,masculin,groupe E,école supérieure,standard,terminé,81,80,76
+208,feminin,groupe B,collège,gratuit/réduit,aucun,74,81,76
+209,feminin,groupe B,collège,gratuit/réduit,aucun,58,61,66
+210,masculin,groupe D,lycée,gratuit/réduit,terminé,80,79,79
+211,masculin,groupe C,collège,gratuit/réduit,aucun,35,28,27
+212,feminin,groupe C,école supérieure,gratuit/réduit,aucun,42,62,60
+213,masculin,groupe C,deug,gratuit/réduit,terminé,60,51,56
+214,masculin,groupe E,école supérieure,standard,terminé,87,91,81
+215,masculin,groupe B,lycée,standard,terminé,84,83,75
+216,feminin,groupe E,deug,gratuit/réduit,terminé,83,86,88
+217,feminin,groupe C,école supérieure,gratuit/réduit,aucun,34,42,39
+218,masculin,groupe B,école supérieure,gratuit/réduit,aucun,66,77,70
+219,masculin,groupe B,lycée,standard,terminé,61,56,56
+220,feminin,groupe D,école supérieure,standard,terminé,56,68,74
+221,masculin,groupe B,deug,standard,aucun,87,85,73
+222,feminin,groupe C,lycée,gratuit/réduit,aucun,55,65,62
+223,masculin,groupe D,lycée,standard,aucun,86,80,75
+224,feminin,groupe B,deug,standard,terminé,52,66,73
+225,feminin,groupe E,maîtrise,gratuit/réduit,aucun,45,56,54
+226,feminin,groupe C,collège,standard,aucun,72,72,71
+227,masculin,groupe D,école supérieure,standard,aucun,57,50,54
+228,masculin,groupe A,lycée,gratuit/réduit,aucun,68,72,64
+229,feminin,groupe C,collège,standard,terminé,88,95,94
+230,masculin,groupe D,collège,standard,aucun,76,64,66
+231,masculin,groupe C,deug,standard,aucun,46,43,42
+232,feminin,groupe B,bachelier,standard,aucun,67,86,83
+233,masculin,groupe E,lycée,standard,aucun,92,87,78
+234,masculin,groupe C,bachelier,standard,terminé,83,82,84
+235,masculin,groupe D,deug,standard,aucun,80,75,77
+236,masculin,groupe D,bachelier,gratuit/réduit,aucun,63,66,67
+237,feminin,groupe D,lycée,standard,terminé,64,60,74
+238,masculin,groupe B,collège,standard,aucun,54,52,51
+239,masculin,groupe C,deug,standard,aucun,84,80,80
+240,masculin,groupe D,école supérieure,gratuit/réduit,terminé,73,68,66
+241,feminin,groupe E,bachelier,standard,aucun,80,83,83
+242,feminin,groupe D,école supérieure,standard,aucun,56,52,55
+243,masculin,groupe E,collège,standard,aucun,59,51,43
+244,masculin,groupe D,lycée,standard,aucun,75,74,69
+245,masculin,groupe C,deug,standard,aucun,85,76,71
+246,masculin,groupe E,deug,standard,aucun,89,76,74
+247,feminin,groupe B,école supérieure,standard,terminé,58,70,68
+248,feminin,groupe B,école supérieure,standard,aucun,65,64,62
+249,masculin,groupe C,école supérieure,standard,aucun,68,60,53
+250,masculin,groupe A,lycée,standard,terminé,47,49,49
+251,feminin,groupe D,collège,gratuit/réduit,aucun,71,83,83
+252,feminin,groupe B,lycée,standard,terminé,60,70,70
+253,masculin,groupe D,maîtrise,standard,aucun,80,80,72
+254,masculin,groupe D,école supérieure,standard,aucun,54,52,52
+255,feminin,groupe E,collège,standard,aucun,62,73,70
+256,feminin,groupe C,deug,gratuit/réduit,aucun,64,73,68
+257,masculin,groupe C,deug,standard,terminé,78,77,77
+258,feminin,groupe B,collège,standard,aucun,70,75,78
+259,feminin,groupe C,maîtrise,gratuit/réduit,terminé,65,81,81
+260,feminin,groupe C,lycée,gratuit/réduit,terminé,64,79,77
+261,masculin,groupe C,collège,standard,terminé,79,79,78
+262,feminin,groupe C,lycée,gratuit/réduit,aucun,44,50,51
+263,feminin,groupe E,école supérieure,standard,aucun,99,93,90
+264,masculin,groupe D,école supérieure,standard,aucun,76,73,68
+265,masculin,groupe D,lycée,gratuit/réduit,aucun,59,42,41
+266,feminin,groupe C,bachelier,standard,aucun,63,75,81
+267,feminin,groupe D,école supérieure,standard,aucun,69,72,77
+268,feminin,groupe D,deug,standard,terminé,88,92,95
+269,feminin,groupe E,collège,gratuit/réduit,aucun,71,76,70
+270,masculin,groupe C,bachelier,standard,aucun,69,63,61
+271,masculin,groupe C,collège,standard,aucun,58,49,42
+272,feminin,groupe D,deug,gratuit/réduit,aucun,47,53,58
+273,feminin,groupe D,collège,standard,aucun,65,70,71
+274,masculin,groupe B,collège,standard,terminé,88,85,76
+275,masculin,groupe C,bachelier,standard,aucun,83,78,73
+276,feminin,groupe C,lycée,standard,terminé,85,92,93
+277,feminin,groupe E,école supérieure,standard,terminé,59,63,75
+278,feminin,groupe C,lycée,gratuit/réduit,aucun,65,86,80
+279,masculin,groupe B,bachelier,gratuit/réduit,aucun,73,56,57
+280,masculin,groupe D,école supérieure,standard,aucun,53,52,42
+281,masculin,groupe D,école supérieure,standard,aucun,45,48,46
+282,feminin,groupe D,bachelier,gratuit/réduit,aucun,73,79,84
+283,feminin,groupe D,collège,gratuit/réduit,terminé,70,78,78
+284,feminin,groupe B,lycée,standard,aucun,37,46,46
+285,masculin,groupe B,deug,standard,terminé,81,82,82
+286,masculin,groupe E,deug,standard,terminé,97,82,88
+287,feminin,groupe B,lycée,standard,aucun,67,89,82
+288,masculin,groupe B,bachelier,gratuit/réduit,aucun,88,75,76
+289,masculin,groupe E,lycée,standard,terminé,77,76,77
+290,masculin,groupe C,deug,standard,aucun,76,70,68
+291,masculin,groupe D,lycée,standard,aucun,86,73,70
+292,masculin,groupe C,lycée,standard,terminé,63,60,57
+293,feminin,groupe E,bachelier,standard,aucun,65,73,75
+294,masculin,groupe D,école supérieure,gratuit/réduit,terminé,78,77,80
+295,masculin,groupe B,deug,gratuit/réduit,aucun,67,62,60
+296,masculin,groupe A,lycée,standard,terminé,46,41,43
+297,masculin,groupe E,deug,standard,terminé,71,74,68
+298,masculin,groupe C,école supérieure,gratuit/réduit,terminé,40,46,50
+299,masculin,groupe D,deug,gratuit/réduit,aucun,90,87,75
+300,masculin,groupe A,collège,gratuit/réduit,terminé,81,78,81
+301,masculin,groupe D,lycée,gratuit/réduit,aucun,56,54,52
+302,feminin,groupe C,deug,standard,terminé,67,84,81
+303,masculin,groupe B,deug,standard,aucun,80,76,64
+304,feminin,groupe C,deug,standard,terminé,74,75,83
+305,masculin,groupe A,collège,standard,aucun,69,67,69
+306,masculin,groupe E,collège,standard,terminé,99,87,81
+307,masculin,groupe C,lycée,standard,aucun,51,52,44
+308,feminin,groupe B,deug,gratuit/réduit,aucun,53,71,67
+309,feminin,groupe D,école supérieure,gratuit/réduit,aucun,49,57,52
+310,feminin,groupe B,deug,standard,aucun,73,76,80
+311,masculin,groupe B,bachelier,standard,aucun,66,60,57
+312,masculin,groupe D,bachelier,standard,terminé,67,61,68
+313,feminin,groupe C,deug,gratuit/réduit,terminé,68,67,69
+314,feminin,groupe C,bachelier,standard,terminé,59,64,75
+315,masculin,groupe C,école supérieure,standard,aucun,71,66,65
+316,feminin,groupe D,maîtrise,standard,terminé,77,82,91
+317,masculin,groupe C,deug,standard,aucun,83,72,78
+318,masculin,groupe B,bachelier,standard,aucun,63,71,69
+319,feminin,groupe D,deug,gratuit/réduit,aucun,56,65,63
+320,feminin,groupe C,école supérieure,gratuit/réduit,terminé,67,79,84
+321,feminin,groupe E,école supérieure,standard,aucun,75,86,79
+322,feminin,groupe C,collège,standard,aucun,71,81,80
+323,feminin,groupe C,lycée,gratuit/réduit,aucun,43,53,53
+324,feminin,groupe C,école supérieure,gratuit/réduit,aucun,41,46,43
+325,feminin,groupe C,collège,standard,aucun,82,90,94
+326,masculin,groupe C,collège,standard,aucun,61,61,62
+327,masculin,groupe A,collège,gratuit/réduit,aucun,28,23,19
+328,masculin,groupe C,deug,standard,terminé,82,75,77
+329,feminin,groupe B,lycée,standard,aucun,41,55,51
+330,masculin,groupe C,école supérieure,standard,aucun,71,60,61
+331,masculin,groupe C,deug,standard,aucun,47,37,35
+332,masculin,groupe E,deug,standard,terminé,62,56,53
+333,masculin,groupe B,deug,standard,aucun,90,78,81
+334,feminin,groupe C,bachelier,standard,aucun,83,93,95
+335,feminin,groupe B,collège,gratuit/réduit,aucun,61,68,66
+336,masculin,groupe D,lycée,standard,terminé,76,70,69
+337,masculin,groupe C,deug,standard,aucun,49,51,43
+338,feminin,groupe B,lycée,gratuit/réduit,aucun,24,38,27
+339,feminin,groupe D,lycée,gratuit/réduit,terminé,35,55,60
+340,masculin,groupe C,école supérieure,gratuit/réduit,aucun,58,61,52
+341,feminin,groupe C,école supérieure,standard,aucun,61,73,63
+342,feminin,groupe B,école supérieure,standard,terminé,69,76,74
+343,masculin,groupe D,deug,standard,terminé,67,72,67
+344,masculin,groupe D,collège,standard,aucun,79,73,67
+345,feminin,groupe C,école supérieure,standard,aucun,72,80,75
+346,masculin,groupe B,collège,standard,aucun,62,61,57
+347,feminin,groupe C,bachelier,standard,terminé,77,94,95
+348,masculin,groupe D,école supérieure,gratuit/réduit,aucun,75,74,66
+349,masculin,groupe E,deug,standard,aucun,87,74,76
+350,feminin,groupe B,bachelier,standard,aucun,52,65,69
+351,masculin,groupe E,collège,standard,aucun,66,57,52
+352,feminin,groupe C,collège,standard,terminé,63,78,80
+353,feminin,groupe C,deug,standard,aucun,46,58,57
+354,feminin,groupe C,collège,standard,aucun,59,71,70
+355,feminin,groupe B,bachelier,standard,aucun,61,72,70
+356,masculin,groupe A,deug,standard,aucun,63,61,61
+357,feminin,groupe C,collège,gratuit/réduit,terminé,42,66,69
+358,masculin,groupe D,collège,gratuit/réduit,aucun,59,62,61
+359,feminin,groupe D,collège,standard,aucun,80,90,89
+360,feminin,groupe B,école supérieure,standard,aucun,58,62,59
+361,masculin,groupe B,lycée,standard,terminé,85,84,78
+362,feminin,groupe C,collège,standard,aucun,52,58,58
+363,feminin,groupe D,lycée,gratuit/réduit,aucun,27,34,32
+364,masculin,groupe C,collège,standard,aucun,59,60,58
+365,masculin,groupe A,bachelier,gratuit/réduit,terminé,49,58,60
+366,masculin,groupe C,école supérieure,standard,terminé,69,58,53
+367,masculin,groupe C,bachelier,gratuit/réduit,aucun,61,66,61
+368,feminin,groupe A,lycée,gratuit/réduit,aucun,44,64,58
+369,feminin,groupe D,lycée,standard,aucun,73,84,85
+370,masculin,groupe E,collège,standard,aucun,84,77,71
+371,feminin,groupe C,collège,gratuit/réduit,terminé,45,73,70
+372,masculin,groupe D,lycée,standard,aucun,74,74,72
+373,feminin,groupe D,collège,standard,terminé,82,97,96
+374,feminin,groupe D,bachelier,standard,aucun,59,70,73
+375,masculin,groupe E,deug,gratuit/réduit,aucun,46,43,41
+376,feminin,groupe D,lycée,standard,aucun,80,90,82
+377,feminin,groupe D,maîtrise,gratuit/réduit,terminé,85,95,100
+378,feminin,groupe A,lycée,standard,aucun,71,83,77
+379,masculin,groupe A,bachelier,standard,aucun,66,64,62
+380,feminin,groupe B,deug,standard,aucun,80,86,83
+381,masculin,groupe C,deug,standard,terminé,87,100,95
+382,masculin,groupe C,maîtrise,gratuit/réduit,aucun,79,81,71
+383,feminin,groupe E,lycée,gratuit/réduit,aucun,38,49,45
+384,feminin,groupe A,lycée,gratuit/réduit,aucun,38,43,43
+385,feminin,groupe E,collège,standard,aucun,67,76,75
+386,feminin,groupe E,bachelier,standard,aucun,64,73,70
+387,feminin,groupe C,deug,gratuit/réduit,aucun,57,78,67
+388,feminin,groupe D,école supérieure,standard,aucun,62,64,64
+389,masculin,groupe D,maîtrise,standard,aucun,73,70,75
+390,masculin,groupe E,lycée,gratuit/réduit,terminé,73,67,59
+391,feminin,groupe D,collège,standard,aucun,77,68,77
+392,masculin,groupe E,collège,standard,aucun,76,67,67
+393,masculin,groupe C,deug,standard,terminé,57,54,56
+394,feminin,groupe C,lycée,standard,terminé,65,74,77
+395,masculin,groupe A,école supérieure,gratuit/réduit,aucun,48,45,41
+396,feminin,groupe B,école supérieure,gratuit/réduit,aucun,50,67,63
+397,feminin,groupe C,deug,standard,aucun,85,89,95
+398,masculin,groupe B,lycée,standard,aucun,74,63,57
+399,masculin,groupe D,lycée,standard,aucun,60,59,54
+400,feminin,groupe C,lycée,standard,terminé,59,54,67
+401,masculin,groupe A,collège,standard,aucun,53,43,43
+402,feminin,groupe A,collège,gratuit/réduit,aucun,49,65,55
+403,feminin,groupe D,école supérieure,standard,terminé,88,99,100
+404,feminin,groupe C,école supérieure,standard,aucun,54,59,62
+405,feminin,groupe C,lycée,standard,aucun,63,73,68
+406,masculin,groupe B,deug,standard,terminé,65,65,63
+407,feminin,groupe B,deug,standard,aucun,82,80,77
+408,feminin,groupe D,école supérieure,gratuit/réduit,terminé,52,57,56
+409,masculin,groupe D,deug,standard,terminé,87,84,85
+410,feminin,groupe D,maîtrise,standard,terminé,70,71,74
+411,masculin,groupe E,collège,standard,terminé,84,83,78
+412,masculin,groupe D,deug,standard,aucun,71,66,60
+413,masculin,groupe B,lycée,standard,terminé,63,67,67
+414,feminin,groupe C,bachelier,gratuit/réduit,terminé,51,72,79
+415,masculin,groupe E,école supérieure,standard,aucun,84,73,69
+416,masculin,groupe C,bachelier,standard,terminé,71,74,68
+417,masculin,groupe C,deug,standard,aucun,74,73,67
+418,masculin,groupe D,collège,standard,aucun,68,59,62
+419,masculin,groupe E,école supérieure,gratuit/réduit,terminé,57,56,54
+420,feminin,groupe C,deug,gratuit/réduit,terminé,82,93,93
+421,feminin,groupe D,école supérieure,standard,terminé,57,58,64
+422,feminin,groupe D,maîtrise,gratuit/réduit,terminé,47,58,67
+423,feminin,groupe A,lycée,standard,terminé,59,85,80
+424,masculin,groupe B,collège,gratuit/réduit,aucun,41,39,34
+425,feminin,groupe C,collège,gratuit/réduit,aucun,62,67,62
+426,masculin,groupe C,bachelier,standard,aucun,86,83,86
+427,masculin,groupe C,lycée,gratuit/réduit,aucun,69,71,65
+428,masculin,groupe A,lycée,gratuit/réduit,aucun,65,59,53
+429,masculin,groupe C,lycée,gratuit/réduit,aucun,68,63,54
+430,masculin,groupe C,deug,gratuit/réduit,aucun,64,66,59
+431,feminin,groupe C,école supérieure,standard,aucun,61,72,70
+432,masculin,groupe C,école supérieure,standard,aucun,61,56,55
+433,feminin,groupe A,lycée,gratuit/réduit,aucun,47,59,50
+434,masculin,groupe C,lycée,standard,aucun,73,66,66
+435,masculin,groupe C,collège,gratuit/réduit,terminé,50,48,53
+436,masculin,groupe D,deug,standard,aucun,75,68,64
+437,masculin,groupe D,deug,gratuit/réduit,aucun,75,66,73
+438,masculin,groupe C,école supérieure,standard,aucun,70,56,51
+439,masculin,groupe D,lycée,standard,terminé,89,88,82
+440,feminin,groupe C,collège,standard,terminé,67,81,79
+441,feminin,groupe D,école supérieure,standard,aucun,78,81,80
+442,feminin,groupe A,lycée,gratuit/réduit,aucun,59,73,69
+443,feminin,groupe B,deug,standard,aucun,73,83,76
+444,masculin,groupe A,lycée,gratuit/réduit,aucun,79,82,73
+445,feminin,groupe C,lycée,standard,terminé,67,74,77
+446,masculin,groupe D,collège,gratuit/réduit,aucun,69,66,60
+447,masculin,groupe C,école supérieure,standard,terminé,86,81,80
+448,masculin,groupe B,école supérieure,standard,aucun,47,46,42
+449,masculin,groupe B,deug,standard,aucun,81,73,72
+450,feminin,groupe C,collège,gratuit/réduit,terminé,64,85,85
+451,feminin,groupe E,collège,standard,aucun,100,92,97
+452,feminin,groupe C,deug,gratuit/réduit,aucun,65,77,74
+453,masculin,groupe C,collège,gratuit/réduit,aucun,65,58,49
+454,feminin,groupe C,deug,gratuit/réduit,aucun,53,61,62
+455,masculin,groupe C,bachelier,gratuit/réduit,aucun,37,56,47
+456,feminin,groupe D,bachelier,standard,aucun,79,89,89
+457,masculin,groupe D,deug,gratuit/réduit,aucun,53,54,48
+458,feminin,groupe E,bachelier,standard,aucun,100,100,100
+459,masculin,groupe B,école supérieure,standard,terminé,72,65,68
+460,masculin,groupe C,bachelier,gratuit/réduit,aucun,53,58,55
+461,masculin,groupe B,collège,gratuit/réduit,aucun,54,54,45
+462,feminin,groupe E,collège,standard,aucun,71,70,76
+463,feminin,groupe C,collège,gratuit/réduit,aucun,77,90,91
+464,masculin,groupe A,bachelier,standard,terminé,75,58,62
+465,feminin,groupe C,collège,standard,aucun,84,87,91
+466,feminin,groupe D,deug,gratuit/réduit,aucun,26,31,38
+467,masculin,groupe A,école supérieure,gratuit/réduit,terminé,72,67,65
+468,feminin,groupe A,école supérieure,gratuit/réduit,terminé,77,88,85
+469,masculin,groupe C,collège,standard,aucun,91,74,76
+470,feminin,groupe C,deug,standard,terminé,83,85,90
+471,feminin,groupe C,école supérieure,standard,aucun,63,69,74
+472,feminin,groupe C,deug,standard,terminé,68,86,84
+473,feminin,groupe D,lycée,standard,aucun,59,67,61
+474,feminin,groupe B,deug,standard,terminé,90,90,91
+475,feminin,groupe D,bachelier,standard,terminé,71,76,83
+476,masculin,groupe E,bachelier,standard,terminé,76,62,66
+477,masculin,groupe D,deug,standard,aucun,80,68,72
+478,feminin,groupe D,maîtrise,standard,aucun,55,64,70
+479,masculin,groupe E,deug,standard,aucun,76,71,67
+480,masculin,groupe B,école supérieure,standard,terminé,73,71,68
+481,feminin,groupe D,deug,gratuit/réduit,aucun,52,59,56
+482,masculin,groupe C,collège,gratuit/réduit,aucun,68,68,61
+483,masculin,groupe A,école supérieure,standard,aucun,59,52,46
+484,feminin,groupe B,deug,standard,aucun,49,52,54
+485,masculin,groupe C,école supérieure,standard,aucun,70,74,71
+486,masculin,groupe D,collège,gratuit/réduit,aucun,61,47,56
+487,feminin,groupe C,deug,gratuit/réduit,aucun,60,75,74
+488,masculin,groupe B,lycée,standard,terminé,64,53,57
+489,masculin,groupe A,deug,gratuit/réduit,terminé,79,82,82
+490,feminin,groupe A,deug,gratuit/réduit,aucun,65,85,76
+491,feminin,groupe C,deug,standard,aucun,64,64,70
+492,feminin,groupe C,collège,standard,aucun,83,83,90
+493,feminin,groupe C,bachelier,standard,aucun,81,88,90
+494,feminin,groupe B,école supérieure,standard,aucun,54,64,68
+495,masculin,groupe D,école supérieure,standard,terminé,68,64,66
+496,feminin,groupe C,collège,standard,aucun,54,48,52
+497,feminin,groupe D,collège,gratuit/réduit,terminé,59,78,76
+498,feminin,groupe B,lycée,standard,aucun,66,69,68
+499,masculin,groupe E,collège,standard,aucun,76,71,72
+500,feminin,groupe D,maîtrise,standard,aucun,74,79,82
+501,feminin,groupe B,deug,standard,terminé,94,87,92
+502,masculin,groupe C,collège,gratuit/réduit,aucun,63,61,54
+503,feminin,groupe E,deug,standard,terminé,95,89,92
+504,feminin,groupe D,maîtrise,gratuit/réduit,aucun,40,59,54
+505,feminin,groupe B,lycée,standard,aucun,82,82,80
+506,masculin,groupe A,école supérieure,standard,aucun,68,70,66
+507,masculin,groupe B,bachelier,gratuit/réduit,aucun,55,59,54
+508,masculin,groupe C,maîtrise,standard,aucun,79,78,77
+509,feminin,groupe C,bachelier,standard,aucun,86,92,87
+510,masculin,groupe D,collège,standard,aucun,76,71,73
+511,masculin,groupe A,lycée,standard,aucun,64,50,43
+512,masculin,groupe D,lycée,gratuit/réduit,aucun,62,49,52
+513,feminin,groupe B,lycée,standard,terminé,54,61,62
+514,feminin,groupe B,maîtrise,gratuit/réduit,terminé,77,97,94
+515,feminin,groupe C,lycée,standard,terminé,76,87,85
+516,feminin,groupe D,collège,standard,aucun,74,89,84
+517,feminin,groupe E,collège,standard,terminé,66,74,73
+518,feminin,groupe D,lycée,standard,terminé,66,78,78
+519,feminin,groupe B,école supérieure,gratuit/réduit,terminé,67,78,79
+520,masculin,groupe D,collège,standard,aucun,71,49,52
+521,feminin,groupe C,deug,standard,aucun,91,86,84
+522,masculin,groupe D,bachelier,standard,aucun,69,58,57
+523,masculin,groupe C,maîtrise,gratuit/réduit,aucun,54,59,50
+524,masculin,groupe C,école supérieure,standard,terminé,53,52,49
+525,masculin,groupe E,collège,standard,aucun,68,60,59
+526,masculin,groupe C,lycée,gratuit/réduit,terminé,56,61,60
+527,feminin,groupe C,école supérieure,gratuit/réduit,aucun,36,53,43
+528,feminin,groupe D,bachelier,gratuit/réduit,aucun,29,41,47
+529,feminin,groupe C,deug,standard,aucun,62,74,70
+530,feminin,groupe C,deug,standard,terminé,68,67,73
+531,feminin,groupe C,lycée,standard,aucun,47,54,53
+532,masculin,groupe E,deug,standard,terminé,62,61,58
+533,feminin,groupe E,deug,standard,terminé,79,88,94
+534,masculin,groupe B,école supérieure,standard,terminé,73,69,68
+535,feminin,groupe C,bachelier,gratuit/réduit,terminé,66,83,83
+536,masculin,groupe C,deug,standard,terminé,51,60,58
+537,feminin,groupe D,école supérieure,standard,aucun,51,66,62
+538,masculin,groupe E,bachelier,standard,terminé,85,66,71
+539,masculin,groupe A,deug,standard,terminé,97,92,86
+540,masculin,groupe C,école supérieure,standard,terminé,75,69,68
+541,masculin,groupe D,deug,gratuit/réduit,terminé,79,82,80
+542,feminin,groupe C,deug,standard,aucun,81,77,79
+543,feminin,groupe D,deug,standard,aucun,82,95,89
+544,feminin,groupe D,maîtrise,standard,aucun,64,63,66
+545,masculin,groupe E,lycée,gratuit/réduit,terminé,78,83,80
+546,feminin,groupe A,lycée,standard,terminé,92,100,97
+547,masculin,groupe C,école supérieure,standard,terminé,72,67,64
+548,feminin,groupe C,école supérieure,gratuit/réduit,aucun,62,67,64
+549,masculin,groupe C,maîtrise,standard,aucun,79,72,69
+550,masculin,groupe C,lycée,gratuit/réduit,aucun,79,76,65
+551,masculin,groupe B,bachelier,gratuit/réduit,terminé,87,90,88
+552,feminin,groupe B,deug,standard,aucun,40,48,50
+553,masculin,groupe D,collège,gratuit/réduit,aucun,77,62,64
+554,masculin,groupe E,deug,standard,aucun,53,45,40
+555,feminin,groupe C,collège,gratuit/réduit,aucun,32,39,33
+556,feminin,groupe C,deug,standard,terminé,55,72,79
+557,masculin,groupe C,maîtrise,gratuit/réduit,aucun,61,67,66
+558,feminin,groupe B,deug,gratuit/réduit,aucun,53,70,70
+559,masculin,groupe D,lycée,standard,aucun,73,66,62
+560,feminin,groupe D,collège,standard,terminé,74,75,79
+561,feminin,groupe C,collège,standard,aucun,63,74,74
+562,masculin,groupe C,bachelier,standard,terminé,96,90,92
+563,feminin,groupe D,collège,gratuit/réduit,terminé,63,80,80
+564,masculin,groupe B,bachelier,gratuit/réduit,aucun,48,51,46
+565,masculin,groupe B,deug,standard,aucun,48,43,45
+566,feminin,groupe E,bachelier,gratuit/réduit,terminé,92,100,100
+567,feminin,groupe D,maîtrise,gratuit/réduit,terminé,61,71,78
+568,masculin,groupe B,école supérieure,gratuit/réduit,aucun,63,48,47
+569,masculin,groupe D,bachelier,gratuit/réduit,aucun,68,68,67
+570,masculin,groupe B,collège,standard,terminé,71,75,70
+571,masculin,groupe A,bachelier,standard,aucun,91,96,92
+572,feminin,groupe C,collège,standard,aucun,53,62,56
+573,feminin,groupe C,école supérieure,gratuit/réduit,terminé,50,66,64
+574,feminin,groupe E,école supérieure,standard,aucun,74,81,71
+575,masculin,groupe A,deug,gratuit/réduit,terminé,40,55,53
+576,masculin,groupe A,collège,standard,terminé,61,51,52
+577,feminin,groupe B,école supérieure,standard,aucun,81,91,89
+578,feminin,groupe B,collège,gratuit/réduit,terminé,48,56,58
+579,feminin,groupe D,maîtrise,standard,aucun,53,61,68
+580,feminin,groupe D,lycée,standard,aucun,81,97,96
+581,feminin,groupe E,lycée,standard,aucun,77,79,80
+582,feminin,groupe D,bachelier,gratuit/réduit,aucun,63,73,78
+583,feminin,groupe D,deug,standard,terminé,73,75,80
+584,feminin,groupe D,collège,standard,aucun,69,77,77
+585,feminin,groupe C,deug,standard,aucun,65,76,76
+586,feminin,groupe A,école supérieure,standard,aucun,55,73,73
+587,feminin,groupe C,bachelier,gratuit/réduit,aucun,44,63,62
+588,feminin,groupe C,collège,standard,aucun,54,64,65
+589,feminin,groupe A,lycée,standard,aucun,48,66,65
+590,masculin,groupe C,collège,gratuit/réduit,aucun,58,57,54
+591,masculin,groupe A,lycée,standard,aucun,71,62,50
+592,masculin,groupe E,bachelier,standard,aucun,68,68,64
+593,feminin,groupe E,école supérieure,standard,aucun,74,76,73
+594,feminin,groupe C,bachelier,standard,terminé,92,100,99
+595,feminin,groupe C,bachelier,standard,terminé,56,79,72
+596,masculin,groupe B,école supérieure,gratuit/réduit,aucun,30,24,15
+597,masculin,groupe A,lycée,standard,aucun,53,54,48
+598,feminin,groupe D,école supérieure,standard,aucun,69,77,73
+599,feminin,groupe D,lycée,standard,aucun,65,82,81
+600,feminin,groupe D,maîtrise,standard,aucun,54,60,63
+601,feminin,groupe C,école supérieure,standard,aucun,29,29,30
+602,feminin,groupe E,collège,standard,aucun,76,78,80
+603,masculin,groupe D,école supérieure,gratuit/réduit,aucun,60,57,51
+604,masculin,groupe D,maîtrise,gratuit/réduit,terminé,84,89,90
+605,masculin,groupe C,lycée,standard,aucun,75,72,62
+606,feminin,groupe C,deug,standard,aucun,85,84,82
+607,feminin,groupe C,maîtrise,gratuit/réduit,aucun,40,58,54
+608,feminin,groupe E,collège,standard,aucun,61,64,62
+609,feminin,groupe B,deug,standard,aucun,58,63,65
+610,masculin,groupe D,collège,gratuit/réduit,terminé,69,60,63
+611,feminin,groupe C,collège,standard,aucun,58,59,66
+612,masculin,groupe C,bachelier,standard,terminé,94,90,91
+613,feminin,groupe C,deug,standard,aucun,65,77,74
+614,feminin,groupe A,deug,standard,aucun,82,93,93
+615,feminin,groupe C,école supérieure,standard,aucun,60,68,72
+616,feminin,groupe E,bachelier,standard,aucun,37,45,38
+617,masculin,groupe D,bachelier,standard,aucun,88,78,83
+618,masculin,groupe D,maîtrise,standard,aucun,95,81,84
+619,masculin,groupe C,deug,gratuit/réduit,terminé,65,73,68
+620,feminin,groupe C,école supérieure,gratuit/réduit,aucun,35,61,54
+621,masculin,groupe B,bachelier,gratuit/réduit,aucun,62,63,56
+622,masculin,groupe C,école supérieure,gratuit/réduit,terminé,58,51,52
+623,masculin,groupe A,collège,standard,terminé,100,96,86
+624,feminin,groupe E,bachelier,gratuit/réduit,aucun,61,58,62
+625,masculin,groupe D,collège,standard,terminé,100,97,99
+626,masculin,groupe B,deug,gratuit/réduit,terminé,69,70,63
+627,masculin,groupe D,deug,standard,aucun,61,48,46
+628,masculin,groupe D,collège,gratuit/réduit,aucun,49,57,46
+629,feminin,groupe C,lycée,standard,terminé,44,51,55
+630,masculin,groupe D,collège,standard,aucun,67,64,70
+631,masculin,groupe B,école supérieure,standard,aucun,79,60,65
+632,feminin,groupe B,bachelier,standard,terminé,66,74,81
+633,feminin,groupe C,école supérieure,standard,aucun,75,88,85
+634,masculin,groupe D,lycée,standard,aucun,84,84,80
+635,masculin,groupe A,école supérieure,standard,aucun,71,74,64
+636,feminin,groupe B,école supérieure,gratuit/réduit,terminé,67,80,81
+637,feminin,groupe D,lycée,standard,terminé,80,92,88
+638,masculin,groupe E,collège,standard,aucun,86,76,74
+639,feminin,groupe D,deug,standard,aucun,76,74,73
+640,masculin,groupe D,école supérieure,standard,aucun,41,52,51
+641,feminin,groupe D,deug,gratuit/réduit,terminé,74,88,90
+642,feminin,groupe B,lycée,gratuit/réduit,aucun,72,81,79
+643,feminin,groupe E,école supérieure,standard,terminé,74,79,80
+644,masculin,groupe B,école supérieure,standard,aucun,70,65,60
+645,feminin,groupe B,bachelier,standard,terminé,65,81,81
+646,feminin,groupe D,deug,standard,aucun,59,70,65
+647,feminin,groupe E,école supérieure,gratuit/réduit,aucun,64,62,68
+648,feminin,groupe B,école supérieure,standard,aucun,50,53,55
+649,feminin,groupe D,collège,standard,terminé,69,79,81
+650,masculin,groupe C,lycée,gratuit/réduit,terminé,51,56,53
+651,feminin,groupe A,école supérieure,standard,terminé,68,80,76
+652,feminin,groupe D,collège,standard,terminé,85,86,98
+653,feminin,groupe A,deug,standard,terminé,65,70,74
+654,feminin,groupe B,lycée,standard,aucun,73,79,79
+655,feminin,groupe B,collège,standard,aucun,62,67,67
+656,masculin,groupe C,deug,gratuit/réduit,aucun,77,67,64
+657,masculin,groupe D,lycée,standard,aucun,69,66,61
+658,feminin,groupe D,deug,gratuit/réduit,aucun,43,60,58
+659,masculin,groupe D,deug,standard,aucun,90,87,85
+660,masculin,groupe C,collège,gratuit/réduit,aucun,74,77,73
+661,masculin,groupe C,lycée,standard,aucun,73,66,63
+662,feminin,groupe D,collège,gratuit/réduit,aucun,55,71,69
+663,feminin,groupe C,école supérieure,standard,aucun,65,69,67
+664,masculin,groupe D,deug,standard,aucun,80,63,63
+665,feminin,groupe C,lycée,gratuit/réduit,terminé,50,60,60
+666,feminin,groupe C,collège,gratuit/réduit,terminé,63,73,71
+667,feminin,groupe B,bachelier,gratuit/réduit,aucun,77,85,87
+668,masculin,groupe C,collège,standard,aucun,73,74,61
+669,masculin,groupe D,deug,standard,terminé,81,72,77
+670,feminin,groupe C,école supérieure,gratuit/réduit,aucun,66,76,68
+671,masculin,groupe D,deug,gratuit/réduit,aucun,52,57,50
+672,feminin,groupe C,collège,standard,aucun,69,78,76
+673,feminin,groupe C,deug,standard,terminé,65,84,84
+674,feminin,groupe D,école supérieure,standard,terminé,69,77,78
+675,feminin,groupe B,collège,standard,terminé,50,64,66
+676,feminin,groupe E,collège,standard,terminé,73,78,76
+677,feminin,groupe C,lycée,standard,terminé,70,82,76
+678,masculin,groupe D,deug,gratuit/réduit,aucun,81,75,78
+679,masculin,groupe D,collège,gratuit/réduit,aucun,63,61,60
+680,feminin,groupe D,école supérieure,standard,aucun,67,72,74
+681,masculin,groupe B,école supérieure,standard,aucun,60,68,60
+682,masculin,groupe B,école supérieure,standard,aucun,62,55,54
+683,feminin,groupe C,lycée,gratuit/réduit,terminé,29,40,44
+684,masculin,groupe B,collège,standard,terminé,62,66,68
+685,feminin,groupe E,maîtrise,standard,terminé,94,99,100
+686,masculin,groupe E,collège,standard,terminé,85,75,68
+687,masculin,groupe D,deug,gratuit/réduit,aucun,77,78,73
+688,masculin,groupe A,école supérieure,gratuit/réduit,aucun,53,58,44
+689,masculin,groupe E,collège,gratuit/réduit,aucun,93,90,83
+690,feminin,groupe C,deug,standard,aucun,49,53,53
+691,feminin,groupe E,deug,gratuit/réduit,aucun,73,76,78
+692,feminin,groupe C,bachelier,gratuit/réduit,terminé,66,74,81
+693,feminin,groupe D,deug,standard,aucun,77,77,73
+694,feminin,groupe C,lycée,standard,aucun,49,63,56
+695,feminin,groupe D,collège,gratuit/réduit,aucun,79,89,86
+696,feminin,groupe C,deug,standard,terminé,75,82,90
+697,feminin,groupe A,bachelier,standard,aucun,59,72,70
+698,feminin,groupe D,deug,standard,terminé,57,78,79
+699,masculin,groupe C,école supérieure,gratuit/réduit,aucun,66,66,59
+700,feminin,groupe E,bachelier,standard,terminé,79,81,82
+701,feminin,groupe B,lycée,standard,aucun,57,67,72
+702,masculin,groupe A,bachelier,standard,terminé,87,84,87
+703,feminin,groupe D,collège,standard,aucun,63,64,67
+704,feminin,groupe B,lycée,gratuit/réduit,terminé,59,63,64
+705,masculin,groupe A,bachelier,gratuit/réduit,aucun,62,72,65
+706,masculin,groupe D,école supérieure,standard,aucun,46,34,36
+707,masculin,groupe C,collège,standard,aucun,66,59,52
+708,masculin,groupe D,école supérieure,standard,aucun,89,87,79
+709,feminin,groupe D,deug,gratuit/réduit,terminé,42,61,58
+710,masculin,groupe C,collège,standard,terminé,93,84,90
+711,feminin,groupe E,lycée,standard,terminé,80,85,85
+712,feminin,groupe D,collège,standard,aucun,98,100,99
+713,masculin,groupe D,maîtrise,standard,aucun,81,81,84
+714,feminin,groupe B,lycée,standard,terminé,60,70,74
+715,feminin,groupe B,deug,gratuit/réduit,terminé,76,94,87
+716,masculin,groupe C,deug,standard,terminé,73,78,72
+717,feminin,groupe C,deug,standard,terminé,96,96,99
+718,feminin,groupe C,école supérieure,standard,aucun,76,76,74
+719,masculin,groupe E,deug,gratuit/réduit,terminé,91,73,80
+720,feminin,groupe C,collège,gratuit/réduit,aucun,62,72,70
+721,masculin,groupe D,lycée,gratuit/réduit,terminé,55,59,59
+722,feminin,groupe B,lycée,gratuit/réduit,terminé,74,90,88
+723,masculin,groupe C,école supérieure,standard,aucun,50,48,42
+724,masculin,groupe B,collège,standard,aucun,47,43,41
+725,masculin,groupe E,collège,standard,terminé,81,74,71
+726,feminin,groupe E,deug,standard,terminé,65,75,77
+727,masculin,groupe E,lycée,standard,terminé,68,51,57
+728,feminin,groupe D,école supérieure,gratuit/réduit,aucun,73,92,84
+729,masculin,groupe C,collège,standard,aucun,53,39,37
+730,feminin,groupe B,deug,gratuit/réduit,terminé,68,77,80
+731,masculin,groupe A,lycée,gratuit/réduit,aucun,55,46,43
+732,feminin,groupe C,collège,standard,terminé,87,89,94
+733,masculin,groupe D,lycée,standard,aucun,55,47,44
+734,feminin,groupe E,collège,gratuit/réduit,aucun,53,58,57
+735,masculin,groupe C,maîtrise,standard,aucun,67,57,59
+736,masculin,groupe C,deug,standard,aucun,92,79,84
+737,feminin,groupe B,collège,gratuit/réduit,terminé,53,66,73
+738,masculin,groupe D,deug,standard,aucun,81,71,73
+739,masculin,groupe C,école supérieure,gratuit/réduit,aucun,61,60,55
+740,masculin,groupe D,bachelier,standard,aucun,80,73,72
+741,feminin,groupe A,deug,gratuit/réduit,aucun,37,57,56
+742,feminin,groupe C,école supérieure,standard,aucun,81,84,82
+743,feminin,groupe C,deug,standard,terminé,59,73,72
+744,masculin,groupe B,collège,gratuit/réduit,aucun,55,55,47
+745,masculin,groupe D,deug,standard,aucun,72,79,74
+746,masculin,groupe D,école supérieure,standard,aucun,69,75,71
+747,masculin,groupe C,collège,standard,aucun,69,64,68
+748,feminin,groupe C,bachelier,gratuit/réduit,aucun,50,60,59
+749,masculin,groupe B,collège,standard,terminé,87,84,86
+750,masculin,groupe D,lycée,standard,terminé,71,69,68
+751,masculin,groupe E,collège,standard,aucun,68,72,65
+752,masculin,groupe C,maîtrise,gratuit/réduit,terminé,79,77,75
+753,feminin,groupe C,lycée,standard,terminé,77,90,85
+754,masculin,groupe C,deug,gratuit/réduit,aucun,58,55,53
+755,feminin,groupe E,deug,standard,aucun,84,95,92
+756,masculin,groupe D,collège,standard,aucun,55,58,52
+757,masculin,groupe E,bachelier,gratuit/réduit,terminé,70,68,72
+758,feminin,groupe D,collège,gratuit/réduit,terminé,52,59,65
+759,masculin,groupe B,collège,standard,terminé,69,77,77
+760,feminin,groupe C,école supérieure,gratuit/réduit,aucun,53,72,64
+761,feminin,groupe D,lycée,standard,aucun,48,58,54
+762,masculin,groupe D,lycée,standard,terminé,78,81,86
+763,feminin,groupe B,école supérieure,standard,aucun,62,62,63
+764,masculin,groupe D,collège,standard,aucun,60,63,59
+765,feminin,groupe B,école supérieure,standard,aucun,74,72,72
+766,feminin,groupe C,école supérieure,standard,terminé,58,75,77
+767,masculin,groupe B,école supérieure,standard,terminé,76,62,60
+768,feminin,groupe D,lycée,standard,aucun,68,71,75
+769,masculin,groupe A,collège,gratuit/réduit,aucun,58,60,57
+770,masculin,groupe B,école supérieure,standard,aucun,52,48,49
+771,masculin,groupe D,bachelier,standard,aucun,75,73,74
+772,feminin,groupe B,lycée,gratuit/réduit,terminé,52,67,72
+773,feminin,groupe C,bachelier,gratuit/réduit,aucun,62,78,79
+774,masculin,groupe B,collège,standard,aucun,66,65,60
+775,feminin,groupe B,lycée,gratuit/réduit,aucun,49,58,55
+776,feminin,groupe B,école supérieure,standard,aucun,66,72,70
+777,feminin,groupe C,collège,gratuit/réduit,aucun,35,44,43
+778,feminin,groupe A,collège,standard,terminé,72,79,82
+779,masculin,groupe E,deug,standard,terminé,94,85,82
+780,feminin,groupe D,deug,gratuit/réduit,aucun,46,56,57
+781,feminin,groupe B,maîtrise,standard,aucun,77,90,84
+782,feminin,groupe B,école supérieure,gratuit/réduit,terminé,76,85,82
+783,feminin,groupe C,deug,standard,terminé,52,59,62
+784,masculin,groupe C,bachelier,standard,terminé,91,81,79
+785,feminin,groupe B,lycée,standard,terminé,32,51,44
+786,feminin,groupe E,lycée,gratuit/réduit,aucun,72,79,77
+787,feminin,groupe B,collège,standard,aucun,19,38,32
+788,masculin,groupe C,deug,gratuit/réduit,aucun,68,65,61
+789,feminin,groupe C,maîtrise,gratuit/réduit,aucun,52,65,61
+790,feminin,groupe B,école supérieure,standard,aucun,48,62,60
+791,feminin,groupe D,collège,gratuit/réduit,aucun,60,66,70
+792,masculin,groupe D,école supérieure,gratuit/réduit,aucun,66,74,69
+793,masculin,groupe E,lycée,standard,terminé,89,84,77
+794,feminin,groupe B,école supérieure,standard,aucun,42,52,51
+795,feminin,groupe E,deug,gratuit/réduit,terminé,57,68,73
+796,masculin,groupe D,école supérieure,standard,aucun,70,70,70
+797,feminin,groupe E,deug,gratuit/réduit,aucun,70,84,81
+798,masculin,groupe E,collège,standard,aucun,69,60,54
+799,feminin,groupe C,deug,standard,aucun,52,55,57
+800,masculin,groupe C,lycée,standard,terminé,67,73,68
+801,masculin,groupe C,lycée,standard,terminé,76,80,73
+802,feminin,groupe E,deug,standard,aucun,87,94,95
+803,feminin,groupe B,collège,standard,aucun,82,85,87
+804,feminin,groupe C,collège,standard,aucun,73,76,78
+805,masculin,groupe A,collège,gratuit/réduit,aucun,75,81,74
+806,feminin,groupe D,collège,gratuit/réduit,aucun,64,74,75
+807,feminin,groupe E,école supérieure,gratuit/réduit,aucun,41,45,40
+808,masculin,groupe C,école supérieure,standard,aucun,90,75,69
+809,masculin,groupe B,bachelier,standard,aucun,59,54,51
+810,masculin,groupe A,lycée,standard,aucun,51,31,36
+811,masculin,groupe A,école supérieure,gratuit/réduit,aucun,45,47,49
+812,feminin,groupe C,maîtrise,standard,terminé,54,64,67
+813,masculin,groupe E,lycée,standard,terminé,87,84,76
+814,feminin,groupe C,école supérieure,standard,aucun,72,80,83
+815,masculin,groupe B,lycée,standard,terminé,94,86,87
+816,feminin,groupe A,bachelier,standard,aucun,45,59,64
+817,masculin,groupe D,bachelier,gratuit/réduit,terminé,61,70,76
+818,feminin,groupe B,école supérieure,gratuit/réduit,aucun,60,72,68
+819,feminin,groupe C,lycée,standard,aucun,77,91,88
+820,feminin,groupe A,lycée,standard,terminé,85,90,92
+821,feminin,groupe D,bachelier,gratuit/réduit,aucun,78,90,93
+822,masculin,groupe E,collège,gratuit/réduit,terminé,49,52,51
+823,feminin,groupe B,école supérieure,gratuit/réduit,aucun,71,87,82
+824,feminin,groupe C,lycée,gratuit/réduit,aucun,48,58,52
+825,masculin,groupe C,école supérieure,standard,aucun,62,67,58
+826,feminin,groupe C,deug,gratuit/réduit,terminé,56,68,70
+827,feminin,groupe C,lycée,standard,aucun,65,69,76
+828,feminin,groupe D,lycée,gratuit/réduit,terminé,69,86,81
+829,masculin,groupe B,lycée,standard,aucun,68,54,53
+830,feminin,groupe A,collège,gratuit/réduit,aucun,61,60,57
+831,feminin,groupe C,bachelier,gratuit/réduit,terminé,74,86,89
+832,masculin,groupe A,bachelier,standard,aucun,64,60,58
+833,feminin,groupe B,école supérieure,standard,terminé,77,82,89
+834,masculin,groupe B,collège,standard,aucun,58,50,45
+835,feminin,groupe C,école supérieure,standard,terminé,60,64,74
+836,masculin,groupe E,école supérieure,standard,aucun,73,64,57
+837,feminin,groupe A,école supérieure,standard,terminé,75,82,79
+838,masculin,groupe B,deug,gratuit/réduit,terminé,58,57,53
+839,feminin,groupe C,deug,standard,aucun,66,77,73
+840,feminin,groupe D,école supérieure,gratuit/réduit,aucun,39,52,46
+841,masculin,groupe C,lycée,standard,aucun,64,58,51
+842,feminin,groupe B,école supérieure,gratuit/réduit,terminé,23,44,36
+843,masculin,groupe B,collège,gratuit/réduit,terminé,74,77,76
+844,feminin,groupe D,lycée,gratuit/réduit,terminé,40,65,64
+845,masculin,groupe E,maîtrise,standard,aucun,90,85,84
+846,masculin,groupe C,maîtrise,standard,terminé,91,85,85
+847,masculin,groupe D,école supérieure,standard,aucun,64,54,50
+848,feminin,groupe C,école supérieure,standard,aucun,59,72,68
+849,masculin,groupe D,deug,standard,aucun,80,75,69
+850,masculin,groupe C,maîtrise,standard,aucun,71,67,67
+851,feminin,groupe A,école supérieure,standard,aucun,61,68,63
+852,feminin,groupe E,collège,standard,aucun,87,85,93
+853,masculin,groupe E,lycée,standard,aucun,82,67,61
+854,masculin,groupe C,lycée,standard,aucun,62,64,55
+855,feminin,groupe B,bachelier,standard,aucun,97,97,96
+856,masculin,groupe B,collège,gratuit/réduit,aucun,75,68,65
+857,feminin,groupe C,bachelier,standard,aucun,65,79,81
+858,masculin,groupe B,école supérieure,standard,terminé,52,49,46
+859,masculin,groupe C,deug,gratuit/réduit,aucun,87,73,72
+860,feminin,groupe C,deug,standard,aucun,53,62,53
+861,feminin,groupe E,maîtrise,gratuit/réduit,aucun,81,86,87
+862,masculin,groupe D,bachelier,gratuit/réduit,terminé,39,42,38
+863,feminin,groupe C,collège,standard,terminé,71,71,80
+864,masculin,groupe C,deug,standard,aucun,97,93,91
+865,masculin,groupe D,collège,standard,terminé,82,82,88
+866,masculin,groupe C,école supérieure,gratuit/réduit,aucun,59,53,52
+867,masculin,groupe B,deug,standard,aucun,61,42,41
+868,masculin,groupe E,deug,gratuit/réduit,terminé,78,74,72
+869,masculin,groupe C,deug,gratuit/réduit,aucun,49,51,51
+870,masculin,groupe B,école supérieure,standard,aucun,59,58,47
+871,feminin,groupe C,collège,standard,terminé,70,72,76
+872,masculin,groupe B,deug,standard,terminé,82,84,78
+873,masculin,groupe E,deug,gratuit/réduit,aucun,90,90,82
+874,feminin,groupe C,bachelier,gratuit/réduit,aucun,43,62,61
+875,masculin,groupe C,collège,gratuit/réduit,aucun,80,64,66
+876,masculin,groupe D,collège,standard,aucun,81,82,84
+877,masculin,groupe C,lycée,standard,aucun,57,61,54
+878,feminin,groupe D,lycée,standard,aucun,59,72,80
+879,feminin,groupe D,deug,standard,aucun,64,76,74
+880,masculin,groupe C,bachelier,standard,terminé,63,64,66
+881,feminin,groupe E,bachelier,standard,terminé,71,70,70
+882,feminin,groupe B,école supérieure,gratuit/réduit,aucun,64,73,71
+883,masculin,groupe D,bachelier,gratuit/réduit,aucun,55,46,44
+884,feminin,groupe E,deug,standard,aucun,51,51,54
+885,feminin,groupe C,deug,standard,terminé,62,76,80
+886,feminin,groupe E,deug,standard,terminé,93,100,95
+887,masculin,groupe C,école supérieure,gratuit/réduit,aucun,54,72,59
+888,feminin,groupe D,collège,gratuit/réduit,aucun,69,65,74
+889,masculin,groupe D,école supérieure,gratuit/réduit,aucun,44,51,48
+890,feminin,groupe E,collège,standard,terminé,86,85,91
+891,feminin,groupe E,deug,standard,aucun,85,92,85
+892,feminin,groupe A,maîtrise,gratuit/réduit,aucun,50,67,73
+893,masculin,groupe D,lycée,standard,terminé,88,74,75
+894,feminin,groupe E,deug,standard,aucun,59,62,69
+895,feminin,groupe E,lycée,gratuit/réduit,aucun,32,34,38
+896,masculin,groupe B,école supérieure,gratuit/réduit,aucun,36,29,27
+897,feminin,groupe B,lycée,gratuit/réduit,terminé,63,78,79
+898,masculin,groupe D,deug,standard,terminé,67,54,63
+899,feminin,groupe D,lycée,standard,terminé,65,78,82
+900,masculin,groupe D,maîtrise,standard,aucun,85,84,89
+901,feminin,groupe C,maîtrise,standard,aucun,73,78,74
+902,feminin,groupe A,école supérieure,gratuit/réduit,terminé,34,48,41
+903,feminin,groupe D,bachelier,gratuit/réduit,terminé,93,100,100
+904,feminin,groupe D,lycée,gratuit/réduit,aucun,67,84,84
+905,masculin,groupe D,collège,standard,aucun,88,77,77
+906,masculin,groupe B,école supérieure,standard,aucun,57,48,51
+907,feminin,groupe D,collège,standard,terminé,79,84,91
+908,feminin,groupe C,bachelier,gratuit/réduit,aucun,67,75,72
+909,masculin,groupe E,bachelier,standard,terminé,70,64,70
+910,masculin,groupe D,bachelier,gratuit/réduit,aucun,50,42,48
+911,feminin,groupe A,collège,standard,aucun,69,84,82
+912,feminin,groupe C,bachelier,standard,terminé,52,61,66
+913,feminin,groupe C,bachelier,gratuit/réduit,terminé,47,62,66
+914,feminin,groupe B,deug,gratuit/réduit,aucun,46,61,55
+915,feminin,groupe E,collège,standard,aucun,68,70,66
+916,masculin,groupe E,bachelier,standard,terminé,100,100,100
+917,feminin,groupe C,école supérieure,standard,aucun,44,61,52
+918,feminin,groupe C,deug,standard,terminé,57,77,80
+919,masculin,groupe B,collège,standard,terminé,91,96,91
+920,masculin,groupe D,école supérieure,gratuit/réduit,aucun,69,70,67
+921,feminin,groupe C,école supérieure,gratuit/réduit,aucun,35,53,46
+922,masculin,groupe D,école supérieure,standard,aucun,72,66,66
+923,feminin,groupe B,deug,gratuit/réduit,aucun,54,65,65
+924,masculin,groupe D,école supérieure,gratuit/réduit,aucun,74,70,69
+925,masculin,groupe E,lycée,standard,terminé,74,64,60
+926,masculin,groupe E,deug,gratuit/réduit,aucun,64,56,52
+927,feminin,groupe D,école supérieure,gratuit/réduit,terminé,65,61,71
+928,masculin,groupe E,deug,gratuit/réduit,terminé,46,43,44
+929,feminin,groupe C,lycée,gratuit/réduit,aucun,48,56,51
+930,masculin,groupe C,collège,gratuit/réduit,terminé,67,74,70
+931,masculin,groupe D,collège,gratuit/réduit,aucun,62,57,62
+932,masculin,groupe D,deug,gratuit/réduit,terminé,61,71,73
+933,masculin,groupe C,bachelier,gratuit/réduit,terminé,70,75,74
+934,masculin,groupe C,deug,standard,terminé,98,87,90
+935,masculin,groupe D,collège,gratuit/réduit,aucun,70,63,58
+936,masculin,groupe A,deug,standard,aucun,67,57,53
+937,feminin,groupe E,école supérieure,gratuit/réduit,aucun,57,58,57
+938,masculin,groupe D,collège,standard,terminé,85,81,85
+939,masculin,groupe D,lycée,standard,terminé,77,68,69
+940,masculin,groupe C,maîtrise,gratuit/réduit,terminé,72,66,72
+941,feminin,groupe D,maîtrise,standard,aucun,78,91,96
+942,masculin,groupe C,école supérieure,standard,aucun,81,66,64
+943,masculin,groupe A,lycée,gratuit/réduit,terminé,61,62,61
+944,feminin,groupe B,école supérieure,standard,aucun,58,68,61
+945,feminin,groupe C,deug,standard,aucun,54,61,58
+946,masculin,groupe B,école supérieure,standard,aucun,82,82,80
+947,feminin,groupe D,collège,gratuit/réduit,aucun,49,58,60
+948,masculin,groupe B,lycée,gratuit/réduit,terminé,49,50,52
+949,feminin,groupe E,école supérieure,gratuit/réduit,terminé,57,75,73
+950,masculin,groupe E,école supérieure,standard,aucun,94,73,71
+951,feminin,groupe D,collège,standard,terminé,75,77,83
+952,feminin,groupe E,lycée,gratuit/réduit,aucun,74,74,72
+953,masculin,groupe C,école supérieure,standard,terminé,58,52,54
+954,feminin,groupe C,collège,standard,aucun,62,69,69
+955,masculin,groupe E,deug,standard,aucun,72,57,62
+956,masculin,groupe C,collège,standard,aucun,84,87,81
+957,feminin,groupe D,maîtrise,standard,aucun,92,100,100
+958,feminin,groupe D,école supérieure,standard,aucun,45,63,59
+959,masculin,groupe C,école supérieure,standard,aucun,75,81,71
+960,feminin,groupe A,collège,standard,aucun,56,58,64
+961,feminin,groupe D,lycée,gratuit/réduit,aucun,48,54,53
+962,feminin,groupe E,deug,standard,aucun,100,100,100
+963,feminin,groupe C,lycée,gratuit/réduit,terminé,65,76,75
+964,masculin,groupe D,collège,standard,aucun,72,57,58
+965,feminin,groupe D,collège,standard,aucun,62,70,72
+966,masculin,groupe A,lycée,standard,terminé,66,68,64
+967,masculin,groupe C,collège,standard,aucun,63,63,60
+968,feminin,groupe E,deug,standard,aucun,68,76,67
+969,feminin,groupe B,bachelier,standard,aucun,75,84,80
+970,feminin,groupe D,bachelier,standard,aucun,89,100,100
+971,masculin,groupe C,lycée,standard,terminé,78,72,69
+972,feminin,groupe A,école supérieure,gratuit/réduit,terminé,53,50,60
+973,feminin,groupe D,collège,gratuit/réduit,aucun,49,65,61
+974,feminin,groupe A,collège,standard,aucun,54,63,67
+975,feminin,groupe C,collège,standard,terminé,64,82,77
+976,masculin,groupe B,collège,gratuit/réduit,terminé,60,62,60
+977,masculin,groupe C,deug,standard,aucun,62,65,58
+978,masculin,groupe D,école supérieure,standard,terminé,55,41,48
+979,feminin,groupe C,deug,standard,aucun,91,95,94
+980,feminin,groupe B,école supérieure,gratuit/réduit,aucun,8,24,23
+981,masculin,groupe D,lycée,standard,aucun,81,78,78
+982,masculin,groupe B,lycée,standard,terminé,79,85,86
+983,feminin,groupe A,collège,standard,terminé,78,87,91
+984,feminin,groupe C,lycée,standard,aucun,74,75,82
+985,masculin,groupe A,école supérieure,standard,aucun,57,51,54
+986,feminin,groupe C,deug,standard,aucun,40,59,51
+987,masculin,groupe E,lycée,standard,terminé,81,75,76
+988,feminin,groupe A,lycée,gratuit/réduit,aucun,44,45,45
+989,feminin,groupe D,collège,gratuit/réduit,terminé,67,86,83
+990,masculin,groupe E,école supérieure,gratuit/réduit,terminé,86,81,75
+991,feminin,groupe B,lycée,standard,terminé,65,82,78
+992,feminin,groupe D,deug,gratuit/réduit,aucun,55,76,76
+993,feminin,groupe D,bachelier,gratuit/réduit,aucun,62,72,74
+994,masculin,groupe A,école supérieure,standard,aucun,63,63,62
+995,feminin,groupe E,maîtrise,standard,terminé,88,99,95
+996,masculin,groupe C,école supérieure,gratuit/réduit,aucun,62,55,55
+997,feminin,groupe C,école supérieure,gratuit/réduit,terminé,59,71,65
+998,feminin,groupe D,collège,standard,terminé,68,78,77
+999,feminin,groupe D,collège,gratuit/réduit,aucun,77,86,86
