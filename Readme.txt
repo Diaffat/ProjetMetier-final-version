@@ -33,3 +33,4 @@ Librairie a installé pour excuté l'application:
 - pip install matplotlib
 
 # Video explicative
+[<img src="https://img.youtube.com/vi/vopyTC4eyEM&list=PLT0a9aNZsHG2p8veFQ0qh-f3yo8EgvPav&index=5/maxresdefault.jpg" width="50%">](https://www.youtube.com/watch?v=vopyTC4eyEM&list=PLT0a9aNZsHG2p8veFQ0qh-f3yo8EgvPav&index=5)
