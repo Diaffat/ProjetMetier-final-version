@@ -1,3 +1,7 @@
+# Video explicative
+[![Watch the video](https://img.youtube.com/vi/vopyTC4eyEM/maxresdefault.jpg)](https://youtu.be/vopyTC4eyEM)
+
+
 le code source contient plusieurs fichier .py
 
  - fichier dataexploration.py : principale fichier pour l'exploration et le pretraitement.
@@ -32,5 +36,3 @@ Librairie a installé pour excuté l'application:
 - pip install streamlit
 - pip install matplotlib
 
-# Video explicative
-[![Watch the video](https://img.youtube.com/vi/vopyTC4eyEM/maxresdefault.jpg)](https://youtu.be/vopyTC4eyEM)
