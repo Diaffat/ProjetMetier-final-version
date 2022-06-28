@@ -16,16 +16,45 @@ import pandas as pd
 import plotly.graph_objects as go
 import pickle
 def download_model(model,nomModele):
-  with open('DataPrepocessing V2\modelesTrain/'+nomModele, 'wb') as f:
+  with open('ProjetMetierV2\modelesTrain'+nomModele, 'wb') as f:
     output_model = pickle.dump(model, f)
   b64 = base64.b64encode(output_model).decode()
   href = f'<a href="data:file/output_model;base64,{b64}">Download Trained Model .pkl File</a> (right-click and save as &lt;some_name&gt;.pkl)'
   st.markdown(href, unsafe_allow_html=True)
 
-
 listeM=[]
 if 'listeM' not in st.session_state:
   st.session_state.listeM =[]
+def predict_inputm(model):
+    st.header(" Saisir les donner d'entrées")
+    dataprediction = pd.read_csv("data")
+    columns = dataprediction.columns.to_list()
+    PH = st.selectbox("PH",columns)
+    TE = st.selectbox("T",columns)
+    CE = st.selectbox("CE",columns)
+    O2 = st.selectbox("O2",columns)
+    NH = st.selectbox("NH",columns)
+    NO = st.selectbox("NO",columns)
+    SO = st.selectbox("SO",columns)
+    PO = st.selectbox("PO",columns)
+    DBO5 = st.selectbox("DBO5",columns)
+    classes = []
+    for i in range(dataprediction.shape[0]):
+        val = [dataprediction[PH][i],dataprediction[TE][i], dataprediction[CE][i], dataprediction[O2][i],dataprediction[NH][i],dataprediction[NO][i],dataprediction[SO][i],dataprediction[PO][i],dataprediction[DBO5][i]]
+        ypred = model.predict([val])
+        if ypred[0]==1:
+            classe = "Excellente"
+        if ypred[0]==2:
+            classe = "Bonne"
+        if ypred[0]==3:
+            classe = "Peu Polluée"
+        if ypred[0]==4:
+            classe = "Mauvaise"
+        if ypred[0]==5:
+            classe = "Très mauvaise"
+        classes.append(classe)
+    df = dataprediction.assign(classes = classes)
+    st.write(df)
 
 def predict_input(model):
     st.header(" Saisir les donner d'entrées")
@@ -199,7 +228,7 @@ def load(dataframe):
                   timestamp = str(cur_date+'/'+cur_time)
                   nomModele=filename +'_'+ timestamp
                   nomModele=str(filename +'_'+ str(round(acc,2)))
-                  with open('DataPrepocessing V2\modelesTrain/'+nomModele, 'wb') as f:
+                  with open('ProjetMetierV2\modelesTrain'+nomModele, 'wb') as f:
                       p=pickle.dump(svc, f)
                   hyperpara=str(hyperpara)
                   insert_data(nomModele,hyperpara,str(precision),str(recall),str(f1),str(acc),timestamp)
@@ -255,7 +284,7 @@ def load(dataframe):
                 nomModele=filename +'_'+ timestamp
                 acc=round(acc,2)
                 nomModele=str(filename +'_'+ str(acc))
-                with open('DataPrepocessing V2\modelesTrain/'+nomModele, 'wb') as f:
+                with open('ProjetMetierV2\modelesTrain'+nomModele, 'wb') as f:
                     pickle.dump(mknn, f)
                 st.write("model saved")
                 hyperpara=str(hyperpara)
@@ -316,7 +345,7 @@ def load(dataframe):
                     nomModele=filename +'_'+ timestamp
                     acc=round(acc,2)
                     nomModele=str(filename +'_'+ str(acc))
-                    with open('DataPrepocessing V2\modelesTrain/'+nomModele, 'wb') as f:
+                    with open('ProjetMetierV2\modelesTrain'+nomModele, 'wb') as f:
                        pickle.dump(mtree, f)
                     st.write("model saved")
                     hyperpara=str(hyperpara)
@@ -374,7 +403,7 @@ def load(dataframe):
                     timestamp = str(cur_date+'/'+cur_time)
                     acc=round(acc,2)
                     nomModele=str(filename +'_'+ str(acc))
-                    with open('DataPrepocessing V2\modelesTrain/'+nomModele, 'wb') as f:
+                    with open('ProjetMetierV2\modelesTrain'+nomModele, 'wb') as f:
                        pickle.dump(raf, f)
                     st.write("model saved")
                     hyperpara=str(hyperpara)

@@ -1,5 +1,5 @@
 from streamlit_option_menu import option_menu
-import streamlit as st
+import streamlit as st,os
 import dataexploration
 import plots, pickle,pyodbc,time,datetime,base64,json,seaborn as sns,folium,requests,geopy,geocoder,numpy as np,pandas as pd,ipywidgets,streamlit as st ,matplotlib.pyplot as plt ,plotly.express as px,plotly.graph_objects as go
 import runpredictions
@@ -11,6 +11,7 @@ import pandas_profiling
 from streamlit_folium import folium_static
 from streamlit_lottie import st_lottie,st_lottie_spinner
 import sweetviz as sv
+
 def predict_input(model):
     st.header(" Saisir les donner d'entrées")
     PH = st.number_input("PH")
@@ -35,7 +36,13 @@ def predict_input(model):
         classe = "Mauvaise"
     if ypred[0]==5:
         classe = "Très mauvaise"
-    st.success(f"La qualité de ton eau est: {classe}")
+    v1,v2 = st.columns(2)
+    #v1= st.write('Go')
+    valider = v1.button("Valider")
+    if valider:
+        st.success(f"La qualité de ton eau est: {classe}")
+     
+
 
 def load_lottieurl(url: str):
     r = requests.get(url)
@@ -151,10 +158,10 @@ if choose=="Home":
     with c1:
         st.write("##")
         st.markdown(
-            '<p class="intro"><b>Bienvenue sur la plateforme de data science !</b></p>',
+            '<p class="intro"><b>Bienvenue sur notre plateforme de data science realisée par: BAGUIAN HAROUNA ET DIASSANA FATOUMATA!</b></p>',
             unsafe_allow_html=True)
     with c1:
-        st.subheader("Teams")
+        st.subheader("Suivez nous sur Github:")
         st.write(
             "• [DIASSANA Fatoumata/GitHub](https://github.com/Diaffat)")
     # if 'a' in st.session_state:  
@@ -164,12 +171,36 @@ if choose=="Home":
     # pr = df.profile_report()
 
     # st_profile_report(pr)
+# if choose=="Prediction":
+#     c=list(st.session_state.listeM)
+#     modelpredict = st.selectbox("Model of prediction",reversed(c))
+#     modelpredict=str(modelpredict)
+#     m=pickle.load(open("ProjetMetierV2\modelesTrain"+modelpredict,"rb"))
+#     predict_input(m)
 if choose=="Prediction":
     c=list(st.session_state.listeM)
-    modelpredict = st.selectbox("Model of prediction",reversed(c))
-    m=pickle.load(open("DataPrepocessing V2\modelesTrain/"+modelpredict,"rb"))
-    predict_input(m)
-  
+    listez = os.listdir('ProjetMetierV2\modelesTrain')
+
+    kind = st.selectbox("Kind of predict",["one prediction","Multiprediction"])
+    if kind=="one prediction":
+        modelpredict = st.selectbox("Model of prediction",listez)
+        m=pickle.load(open("ProjetMetierV2\modelesTrain/"+modelpredict,"rb"))
+        v1,v2 = st.columns(2)
+        predict_input(m)
+        
+    if kind=="Multiprediction":
+        with st.sidebar:
+            # st.markdown("## *1.First Step* ##")
+            data = st.sidebar.file_uploader("Please upload your dataset (CSV format):", type=['csv','xlsx'])
+            is_loaded_dataset = st.sidebar.warning("Dataset not uploaded")
+            if data is not None:
+                is_loaded_dataset.success("Dataset uploaded successfully!")
+                data = pd.read_csv(data)
+                #data.to_csv("dataprediction")
+        modelpredict = st.selectbox("Model of prediction",listez)
+        m=pickle.load(open("ProjetMetierV2\modelesTrain/"+modelpredict,"rb"))
+        St_classification.predict_inputm(m)
+      
 if choose == "MAP Moulouya":
            st.title("Ci-dessous une vue des differentes stations du fleuve MOULOUYA")
            markers_dict = {"Ait boulmane": [ 31.0 , -7.1], 
@@ -191,9 +222,6 @@ if choose == "MAP Moulouya":
                print(i)
             # display map
            folium_static(map_cities)           
-  
-
-
 
 if choose=="Prepocesing":
     # with st.sidebar:
