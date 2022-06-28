@@ -32,3 +32,4 @@ Librairie a installé pour excuté l'application:
 - pip install streamlit
 - pip install matplotlib
 
+# Video explicative
